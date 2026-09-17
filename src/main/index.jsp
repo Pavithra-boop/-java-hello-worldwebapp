@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hello World</title>
+    <title>Simple Web App</title>
 </head>
 <body>
-    <h1>Hello World!</h1>
-    <p>This application is deployed using Jenkins and Tomcat.</p>
+
+    <h1>Welcome to Simple Web App</h1>
+
+    <a href="hello-servlet">Click here to open the HelloServlet</a>
+
 </body>
 </html>
